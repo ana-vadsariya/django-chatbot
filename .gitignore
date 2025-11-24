@@ -1,0 +1,13 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Django database
+db.sqlite3
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
